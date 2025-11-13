@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Smart Digital Solutions",
+    "paragraph": "From websites to web apps and mobile apps, SnapTap helps businesses grow smarter, faster, and better in the digital world"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Snaptap is a technology partner for businesses seeking to transform ideas into actionable digital products.We specialize in websites, web applications, and mobile apps, combining speed, quality, and creativity — true to our slogan: “Digital solutions, built in a snap.”From planning to deployment, we manage the entire development process so you can focus on what you do best: growing your business.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "🚀 Rapid Delivery",
+      "💡 Innovative Approach",
+      "🎯 Top-Quality Work",
+      "✨ Smart Design & UX"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "🤝 Client-Centered",
+      "📈 Scalable & Future-Proof",
+      "🌍 Cross-Platform Expertise",
+      "🏆 Proven Impact"
     ]
   },
   "Gallery": [
@@ -67,34 +67,49 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-globe",
+      "name": "Website Development",
+      "text": "Fast, responsive, and SEO-friendly websites for businesses of all sizes."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-mobile-alt",
+      "name": "Mobile App Development",
+      "text": "Cross-platform apps that deliver smooth, engaging experiences."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-laptop",
+      "name": "Web Application Development",
+      "text": "Automate workflows and boost business efficiency with custom web apps."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-shopping-cart",
+      "name": "E-Commerce Solutions",
+      "text": "Build scalable online stores with seamless checkout and payment integrations."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-robot",
+      "name": "AI Integration",
+      "text": "Add intelligence to your systems with smart, automated, and data-driven tools."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-pencil-square",
+      "name": "UI/UX Design",
+      "text": "Modern, intuitive interfaces that make every interaction effortless."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "name": "Admin Tools & Dashboards",
+      "text": "Custom-built CMS, analytics, and management platforms for full control."
+    },
+    {
+      "icon": "fa fa-area-chart",
+      "name": "Data Visualization & Insights",
+      "text": "Transform raw data into meaningful dashboards and business intelligence."
+    },
+    {
+      "icon": "fa fa-exchange",
+      "name": "System & API Integration",
+      "text": "Connect your tools and services for smarter operations."
     }
   ],
   "Testimonials": [
@@ -161,24 +176,44 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-bolt",
+      "title": "Fast Development",
+      "text": "Turn your ideas into live digital solutions in a snap  with Snaptap's rapid development process."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-globe",
+      "title": "Websites",
+      "text": "Beautiful, high-performing websites built to engage visitors, boost credibility, and drive results "
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-laptop",
+      "title": "Web & Mobile Apps",
+      "text": "Custom-built applications that work seamlessly across platforms — fast, reliable, and user-focused."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-robot",
+      "title": "AI-Powered Solutions",
+      "text": "Enhancing your software with advanced AI capabilities for better automation and insights"
+    },
+    {
+      "icon": "fa fa-tachometer",
+      "title": "Admin Tools & Dashboards",
+      "text": "Custom-built admin panels, CMS, and data management systems tailored to your workflow."
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "title": "E-Commerce Solutions",
+      "text": "Building online stores and custom payment integrations."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Scalable Solutions",
+      "text": "Designed to grow with your business, ensuring performance, flexibility, and long-term success."
+    },
+    {
+      "icon": "fa fa-pencil-ruler",
+      "title": "Smart Design",
+      "text": "Intuitive, modern, and engaging interfaces that delight users and elevate your brand."
     }
   ]
 }

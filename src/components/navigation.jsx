@@ -1,4 +1,5 @@
 import React from "react";
+import imageData from "../data/imageData.json";
 
 export const Navigation = (props) => {
   return (
@@ -17,8 +18,11 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+          <a className="navbar-brand page-scroll" href="#page-top" style={{paddingVertical:0,marginVertical:0, display: 'flex', alignItems: 'center'}}>
+            <span>
+              <img src={imageData.icons.logo} alt="" style={{height:60,width:60}} />{" "}
+            </span>
+            Snaptap
           </a>{" "}
         </div>
 
