@@ -1,6 +1,7 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
 import React from "react";
+import { getBrandBackground } from "../utils/appUtils";
 
 const initialState = {
   name: "",
@@ -37,7 +38,7 @@ export const Contact = (props) => {
   };
   return (
     <div>
-      <div id="contact">
+      <div id="contact" style={{...getBrandBackground(180)}}>
         <div className="container">
           <div className="col-md-8">
             <div className="row">

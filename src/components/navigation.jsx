@@ -1,7 +1,9 @@
 import React from "react";
 import imageData from "../data/imageData.json";
+import { useSelector } from "react-redux";
 
 export const Navigation = (props) => {
+  const appState = useSelector((state) => state.appReducer);
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
@@ -22,7 +24,7 @@ export const Navigation = (props) => {
             <span>
               <img src={imageData.icons.logo} alt="" style={{height:60,width:60}} />{" "}
             </span>
-            Snaptap
+            {appState.brandName}
           </a>{" "}
         </div>
 

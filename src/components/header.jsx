@@ -1,6 +1,9 @@
 import React from "react";
+import { getBrandBackground } from "../utils/appUtils";
 
 export const Header = (props) => {
+    const backgrooundStyle = getBrandBackground(90);
+
   return (
     <header id="header">
       <div className="intro">
@@ -16,6 +19,7 @@ export const Header = (props) => {
                 <a
                   href="#features"
                   className="btn btn-custom btn-lg page-scroll"
+                  style={{...backgrooundStyle}}
                 >
                   Get Started
                 </a>{" "}
